@@ -11,7 +11,7 @@ My research areas involve Automation, Cognitive Robotics, Artificial Intelligenc
 I am also an organization member at RoboCup Brasil, helping to organize national educational robotics events:
 * [Brazilian Robotics Olympiad (OBR)](https://www.obr.org.br)
 
-* [National Robotics Exposition (MNR)](https://www.mnr.org.br)
+* [National Robotics Exhibition (MNR)](https://www.mnr.org.br)
 
 * [Brazilian Robotics Competition (CBR) / Latin America Robotics Competition (LARC)](https://www.cbrobotica.org)
 
