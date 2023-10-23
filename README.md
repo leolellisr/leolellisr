@@ -3,6 +3,7 @@
 
 
 I'm an Electrical Engineering MSc and Control and Automation Engineer, graduated from the [Institute of Science and Technology of Sorocaba (ICTS UNESP)].
+
 Dissertation: ["Sensorimotor learning in cognitive robots using the CST-CONAIM model"](http://hdl.handle.net/11449/214316).
 Paper: ["Learning over the Attentional Space with Mobile Robots"](https://doi.org/10.1109/ICDL-EpiRob48136.2020.9278119).
 
