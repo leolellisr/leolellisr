@@ -1,4 +1,4 @@
-### Hi :) 👋
+### Hi :)
 
 I'm an Electrical Engineering MSc and Control and Automation Engineer, graduated from the Institute of Science and Technology of Sorocaba (ICTS UNESP).
 
