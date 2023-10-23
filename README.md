@@ -1,6 +1,6 @@
 ### Hi :)
 
-<--
+
 
 I'm an Electrical Engineering MSc and Control and Automation Engineer, graduated from the Institute of Science and Technology of Sorocaba (ICTS UNESP).
 
@@ -16,4 +16,3 @@ I am also an organization member at RoboCup Brasil, helping to organize national
 * [Brazilian Robotics Competition (CBR) / Latin America Robotics Competition (LARC)](https://www.cbrobotica.org)
 
 
--->
