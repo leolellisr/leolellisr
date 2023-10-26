@@ -1,4 +1,4 @@
-### 🇧🇷🏳️‍🌈🖖 Alola! Hi! :)
+### 🇧🇷🏳️‍🌈🖖 [Alola!](https://bulbapedia.bulbagarden.net/wiki/Alola#Etymology) Hi! :)
 
 
 
