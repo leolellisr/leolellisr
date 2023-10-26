@@ -29,4 +29,5 @@ I am also an organization member at [RoboCup Brasil](https://www.robocup.org.br/
 
 * [Brazilian Robotics Competition (CBR) / Latin America Robotics Competition (LARC)](https://www.cbrobotica.org)
 
+[#EuFaçoRobôs](https://www.instagram.com/explore/tags/eufaçorobôs/) [#EuFaçoRobô](https://www.instagram.com/explore/tags/eufaçorobô/) 
 
