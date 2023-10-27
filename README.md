@@ -1,6 +1,6 @@
 ### 🇧🇷🏳️‍🌈🖖 [Alola!](https://bulbapedia.bulbagarden.net/wiki/Alola#Etymology) Hi! :)
 
-
+![](https://komarev.com/ghpvc/?username=leolellisr&color=red)
 
 I'm an Electrical Engineering MSc and Control and Automation Engineer, graduated from the [Institute of Science and Technology of Sorocaba (ICTS UNESP)](https://www.sorocaba.unesp.br). 
 
