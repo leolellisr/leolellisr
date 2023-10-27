@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=leolellisr&color=red)
 
+![](https://komarev.com/ghpvc/?username=leolellisr/leolellisr.github.io&label=Github+Page+Views&color=red)
+
 I'm an Electrical Engineering MSc and Control and Automation Engineer, graduated from the [Institute of Science and Technology of Sorocaba (ICTS UNESP)](https://www.sorocaba.unesp.br). 
 
 🔎  My master's dissertation is titled ["Aprendizado sensório-motor em robôs cognitivos utilizando o modelo CST-CONAIM" ("Sensorimotor learning in cognitive robots using the CST-CONAIM model")](https://repositorio.unesp.br/items/44b01535-491b-418c-94cf-0634654049c2). 
